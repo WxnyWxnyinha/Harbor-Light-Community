@@ -54,6 +54,8 @@ Harbor-Light-Community/
 
 Você pode acessar o site de duas formas:
 
+- **Pelo GitHub Pages:** [Clique aqui para acessar! 🚀](https://wxnywxnyinha.github.io/Harbor-Light-Community/)
+
 - **Clonando o repositório:**
 
 ```bash
