@@ -4,9 +4,10 @@ Bem-vindo ao espaço oficial da **Harbor Light Community**!
 Acompanhe novidades, eventos, curiosidades e tudo sobre a nossa comunidade. Sinta-se acolhido e faça parte desse universo colaborativo! 🌟
 
 
+
 ## Sobre a Comunidade
 
-A **Harbor Light Community** é um projeto dedicado a reunir pessoas apaixonadas por colaboração, aprendizado e crescimento coletivo. Aqui, celebramos a diversidade, o respeito e a troca de experiências. Este site foi criado para aproximar ainda mais os membros e divulgar nossas atividades! 🚀
+A **Harbor Light Community** é uma comunidade fictícia, criada como parte de uma atividade do módulo do curso de Programação de Sistemas pelo Senac. O objetivo é reunir pessoas apaixonadas por colaboração, aprendizado e crescimento coletivo. Aqui, celebramos a diversidade, o respeito e a troca de experiências. Este site foi criado para aproximar ainda mais os membros e divulgar nossas atividades! 🚀
 
 
 ## Sobre o Projeto
@@ -18,7 +19,6 @@ Este site foi desenvolvido para ser um ponto de encontro virtual da Harbor Light
 - **Galeria:** Imagens de eventos e momentos marcantes.
 - **Notícias:** Atualizações e novidades da comunidade.
 - **Contato:** Formulário para enviar mensagens e sugestões.
-- **Curiosidades:** Fatos interessantes sobre a comunidade e seus membros.
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -62,9 +62,10 @@ git clone https://github.com/WxnyWxnyinha/Harbor-Light-Community.git
 Depois, é só abrir o arquivo `index.html` no seu navegador favorito e aproveitar!
 
 
+
 ## 🎀 Créditos
 
-- Site desenvolvido com dedicação para fortalecer a Harbor Light Community e como parte das atividades do curso de Programação de Sistemas pelo Senac.
+- Site fictício desenvolvido com dedicação para fortalecer a Harbor Light Community e como parte das atividades do módulo do curso de Programação de Sistemas pelo Senac.
 
 
 ## 📬 Contato
